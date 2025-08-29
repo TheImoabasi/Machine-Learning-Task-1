@@ -1,6 +1,6 @@
 #Passing a funtion to a list
 
-def count_name_lengths(nusers):
+def count_name_lengths(users):
     more_than_five = 0
     five_or_less = 0
     
